@@ -1,4 +1,0 @@
-set moddebug 2
-@fence load fence.txt
-@fence enable
-@mode auto
